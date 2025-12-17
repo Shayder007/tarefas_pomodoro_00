@@ -1,4 +1,7 @@
-# tarefas_pomodoro_00
-integrantes:
-vinicius gabriel
-shayder faustino 
+
+## 👥 Integrantes do Projeto
+
+* **Vinicius Gabriel**
+* **Shayder Faustino**
+
+
